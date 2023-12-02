@@ -3908,8 +3908,8 @@ input, select, textarea {
 
 		}
 		.slider {
-			width: 500px;
-			height: 500px;
+			width: 300px;
+			height: 300px;
 			background-color: yellow;
 			margin-left: auto;
 			margin-right: auto;
@@ -3918,9 +3918,9 @@ input, select, textarea {
 			overflow: hidden;
 		  }
 		  .image-container {
-			width: 1500px;
+			width: 900px;
 			background-color: pink;
-			height: 500px;
+			height: 300px;
 			clear: both;
 			position: relative;
 			-webkit-transition: left 2s;
@@ -3938,19 +3938,19 @@ input, select, textarea {
 			left: 0px;
 		  }
 		  #slide-2:target ~ .image-container {
-			left: -500px;
+			left: -300px;
 		  }
 		  #slide-3:target ~ .image-container {
-			left: -1000px;
+			left: -600px;
 		  }
 		  .buttons {
 			position: relative;
-			top: -20px;
+			top: -30px;
 		  }
 		  .buttons a {
 			display: inline-block;
 			height: 15px;
 			width: 15px;
 			border-radius: 50px;
-			background-color: lightgreen;
+			background-color: rgb(238, 144, 236);
 		  }
