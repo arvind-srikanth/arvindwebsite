@@ -3909,7 +3909,7 @@ input, select, textarea {
 		}
 		* {box-sizing:border-box}
 		.slider {
-			width: 500px;
+			width: 300px;
 			height: 300px;
 			background-color: yellow;
 			margin-left: auto;
@@ -3919,7 +3919,7 @@ input, select, textarea {
 			overflow: hidden;
 		  }
 		  .image-container {
-			width: 1500px;
+			width: 300px;
 			background-color: pink;
 			height: 300px;
 			clear: both;
@@ -3939,10 +3939,10 @@ input, select, textarea {
 			left: 0px;
 		  }
 		  #slide-2:target ~ .image-container {
-			left: -500px;
+			left: -100px;
 		  }
 		  #slide-3:target ~ .image-container {
-			left: -1000px;
+			left: -200px;
 		  }
 		  .buttons {
 			position: relative;
