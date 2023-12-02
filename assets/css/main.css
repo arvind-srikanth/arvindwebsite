@@ -2536,27 +2536,27 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #7e729a;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #695d88;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #7f80ba;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #5f5f90;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #8a7281;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #b096a6;
 				}
 
 /* Image */
@@ -3952,5 +3952,5 @@ input, select, textarea {
 			height: 15px;
 			width: 15px;
 			border-radius: 50px;
-			background-color: rgb(238, 144, 236);
+			background-color: #dc6eda;
 		  }
