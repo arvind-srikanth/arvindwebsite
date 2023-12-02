@@ -3909,8 +3909,8 @@ input, select, textarea {
 		}
 		* {box-sizing:border-box}
 		.slider {
-			width: 300px;
-			height: 300px;
+			width: 500px;
+			height: 500px;
 			background-color: yellow;
 			margin-left: auto;
 			margin-right: auto;
@@ -3919,9 +3919,9 @@ input, select, textarea {
 			overflow: hidden;
 		  }
 		  .image-container {
-			width: 300px;
+			width: 1500px;
 			background-color: pink;
-			height: 300px;
+			height: 500px;
 			clear: both;
 			position: relative;
 			-webkit-transition: left 2s;
@@ -3939,10 +3939,10 @@ input, select, textarea {
 			left: 0px;
 		  }
 		  #slide-2:target ~ .image-container {
-			left: -100px;
+			left: -500px;
 		  }
 		  #slide-3:target ~ .image-container {
-			left: -200px;
+			left: -1000px;
 		  }
 		  .buttons {
 			position: relative;
