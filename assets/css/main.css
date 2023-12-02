@@ -3945,12 +3945,12 @@ input, select, textarea {
 		  }
 		  .buttons {
 			position: relative;
-			top: -30px;
+			top: -20px;
 		  }
 		  .buttons a {
 			display: inline-block;
 			height: 15px;
 			width: 15px;
 			border-radius: 50px;
-			background-color: #dc6eda;
+			background-color: #e2c9e1;
 		  }
